@@ -1,0 +1,21 @@
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+.title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.inventor {
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.description {
+    line-height: 1.5;
+}
